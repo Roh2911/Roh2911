@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a personal project<br>🤝 I’m looking for help with coder<br>🌱 I’m currently learning C and Java
+🔭 I’m currently working on a personal project<br><br>🌱 I’m currently learning C and Java
 
 
 ## 🌐 Socials:
